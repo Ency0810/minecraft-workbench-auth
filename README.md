@@ -58,7 +58,7 @@ No Microsoft Graph permissions are requested. No directory data is read.
 
 | Field | Value |
 | --- | --- |
-| Application (client) ID | `00000000-0000-0000-0000-000000000000` <!-- replace with your client ID --> |
+| Application (client) ID | `2d3135da-ba54-4e5d-9a99-883c47e74de3` |
 | Client type | Public client / native |
 | Redirect URI | None |
 | Client secret | None |
